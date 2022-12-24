@@ -1,4 +1,4 @@
-<h2 align="centre"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</h2>
+<h1 align="centre"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</h1>
 
 
 <p align="center"><a href="_"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
@@ -38,7 +38,11 @@
 
 <p align="center">𝐒𝐮𝐩𝐩𝐨𝐫𝐭 / 𝗚𝗿𝗼𝘂𝗽----> </p>
 
-<p align="center"><a href="@The_chatting"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/TheUpdatesChannel"><img src="https://img.shields.io/badge/𝐎𝐰𝐧𝐞𝐫-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://t.me/The_chatting"><img src="https://img.shields.io/badge/𝐒𝐮𝐩𝐩𝐨𝐫𝐭-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+
+<p align="center">𝐅𝐢𝐧𝐝 𝐦𝐞/ ----> </p>
+
+
+<p align="center"><a href="https://t.me/SAXON_OP"><img src="https://img.shields.io/badge/ 𝐎𝐰𝐧𝐞𝐫-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 #
