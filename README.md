@@ -1,7 +1,7 @@
 <h1 align="centre"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</h1>
 
 
-<p align="center"><a href="_"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
+<p align="center"><a href="_"><img src="_" width="300"></a></p>
 <p align="center">
 
 
