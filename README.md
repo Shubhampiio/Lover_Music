@@ -9,12 +9,10 @@
 
 ## 🚀 Okteto Deployment
 
-<h4>Click the button below to deploy on Okteto!</h4>
 <p align="center"><a href="https://cloud.okteto.com/deploy?repository=_"><img src="https://img.shields.io/badge/Deploy%20To%20Okteto-informational?style=for-the-badge&logo=Okteto" width="200""/></a>
 
 ## Workflows hosting
 
-<h4>Click the button below to import this code. How to host? Simply import this code then fill your vars in config.py then go to Actions and check build logs!</h4>
 <p align="center"><a href="https://github.com/new/import"><img src="https://img.shields.io/badge/Workflow%20Deploy-black?style=for-the-badge&logo=github" width="200""/></a>
 
 
