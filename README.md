@@ -2,8 +2,6 @@
 <h1 align="centre"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</h1>
 <a href='https://t.me/SAXON_OP'><img src='https://www.linkpicture.com/q/IMG_20221218_074148_601.jpg' type='image'></a>
 
-<p align="center"><a href="_"><img src="https://images.app.goo.gl/QgNp6yioK6x9PVK88" width="300"></a></p>
-<p align="center">
 
 
 
