@@ -1,7 +1,7 @@
 <h1 align="centre"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</h1>
 
 
-<p align="center"><a href="_"><img src="_" width="300"></a></p>
+<p align="center"><a href="_"><img src="https://images.app.goo.gl/jt66WMjSWkygMwWq6" width="300"></a></p>
 <p align="center">
 
 
