@@ -7,11 +7,6 @@
 
 
 
-
-
-
-
-
 ## 🚀 Okteto Deployment
 
 <h4>Click the button below to deploy on Okteto!</h4>
