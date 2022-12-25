@@ -30,5 +30,5 @@
 #
 <h3 align="center">
     ─「𝐓𝐞𝐬𝐭 𝐁𝐨𝐭」─
-</br>
+</h3>
 <p align="center"><a href="https://telegram.me/LOVERMUSIC_BOT"> <img src="https://img.shields.io/badge/Lover%20%20Music-red?style=for-the-badge&logo=telegram" width="220" height="45"/></a></p>
