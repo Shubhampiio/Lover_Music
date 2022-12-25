@@ -14,19 +14,6 @@
 <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shubhampiio/lover_Music"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 <h2 align="center"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</br>  𝓓𝓮𝓹𝓵𝓸𝔂 𝓘𝓷 𝓥𝓟𝓢 𝓒𝓸𝓶𝓶𝓪𝓷𝓭𝓼</h2>
 
-
-◄ sudo apt-get update && sudo apt-get upgrade -y</br>
-
-◄ sudo apt-get install python3-pip ffmpeg -y</br>
-
-◄ sudo pip3 install -U pip</br>
-
-◄ curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
-</h3>
-
-- Get your [Necessary Variables](https://github.com/AnonymousX1025/AnonXMusic/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
@@ -38,7 +25,7 @@
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/AnonymousX1025/AnonXMusic && cd AnonXMusic`
+`git clone https://github.com/Shubhampiio/lover_Music && cd lover_Music`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
