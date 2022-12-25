@@ -19,7 +19,18 @@
 ◄ curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
 <p align="center">𝐅𝐢𝐧𝐝 𝐦𝐞----> </p>
 
-<p align="center"><a href="https://t.me/The_chatting"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝒢𝓇𝑜𝓊𝓅-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
-<p align="center"><a href="https://t.me/SAXON_OP"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝒪𝓌𝓃𝑒𝓇-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://telegram.me/The_chatting"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝒢𝓇𝑜𝓊𝓅-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
+<p align="center"><a href="https://telegram.me/SAXON_OP"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝒪𝓌𝓃𝑒𝓇-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
 
 #
+<h3 align="center">
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
+</h3>
+
+<p align="center">
+<a href="https://telegram.me/"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+<p align="center">
+<a href="https://telegram.me/FallenAssociation"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
