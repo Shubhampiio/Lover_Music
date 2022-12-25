@@ -10,6 +10,8 @@
 
 </br>
 <h2> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</br>  𝓓𝓮𝓹𝓵𝓸𝔂 𝓘𝓷 𝓥𝓟𝓢 𝓒𝓸𝓶𝓶𝓪𝓷𝓭𝓼</h2>
+
+
 ◄ sudo apt-get update && sudo apt-get upgrade -y</br>
 
 ◄ sudo apt-get install python3-pip ffmpeg -y</br>
