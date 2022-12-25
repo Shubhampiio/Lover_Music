@@ -9,6 +9,11 @@
 </br>
 <h2 align="center"> 『˹𝑳𝒐𝒗𝒆𝒓 ✘ ℳ𝓾𝓼𝓲c͢˼』</br>  𝓓𝓮𝓹𝓵𝓸𝔂 𝓘𝓷 𝓥𝓟𝓢 𝓒𝓸𝓶𝓶𝓪𝓷𝓭𝓼</h2>
 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
+
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 ◄ sudo apt-get update && sudo apt-get upgrade -y</br>
 
