@@ -29,4 +29,5 @@
 
 #
 <h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
+    ─「 Test Bot」─
+<p align="center"><a href="https://telegram.me/LOVERMUSIC_BOT"> <img src="https://img.shields.io/badge/Deploy%20On%20Bot-black?style=for-the-badge&logo=telegram" width="220" height="38.45"/></a></p>
