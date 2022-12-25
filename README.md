@@ -21,7 +21,8 @@
 
 ◄ sudo pip3 install -U pip</br>
 
-◄ curl -fssL https://deb.nodesource.com/setup_17.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+◄ curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm
+
 <p align="center">𝐅𝐢𝐧𝐝 𝐦𝐞----> </p>
 
 <p align="center"><a href="https://telegram.me/The_chatting"><img src="https://img.shields.io/badge/ᴛᴇʟᴇɢʀᴀᴍ-𝒢𝓇𝑜𝓊𝓅-black?&style=for-the-badge&logo=telegram" width="220" height="38.45"></a></p>
